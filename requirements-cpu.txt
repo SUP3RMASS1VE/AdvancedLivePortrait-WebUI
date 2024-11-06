@@ -1,6 +1,6 @@
 # Torch will be automatically installed with following dependencies
 
-numpy>=1.26.4
+numpy
 opencv-python-headless
 imageio-ffmpeg>=0.5.1
 lmdb>=1.4.1
